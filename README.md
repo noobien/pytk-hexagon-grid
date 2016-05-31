@@ -1,9 +1,9 @@
 # pytk-hexagon-grid
 Draw hexagons grid in a Tkinter Canvas
 
-Work in progress
+Work in progress. Hexagon utilities for games in Python's tkinter.
 
-A grid can be displayed with our without grid coordinates on each hexagon (for debug purpose)
+A grid can be displayed with or without grid coordinates on each hexagon (for debug purpose)
 
 ![alt text](screenshots/hex_1.jpg "without coordinates")
 
@@ -12,3 +12,4 @@ A grid can be displayed with our without grid coordinates on each hexagon (for d
 ## To do :
 
 * add mouse click event
+* add neighbours detection
