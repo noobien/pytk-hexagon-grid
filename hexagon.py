@@ -16,7 +16,7 @@ class Field:
         self.x = x
         self.y = y
         self.kind = kind
-        self.color = Field[self.kind]
+        self.color = Field.types[self.kind]
         self.selected = False
 
     def draw(self):
